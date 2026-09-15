@@ -1,1 +1,0 @@
-'''Variable = A container for a values like string, integer, float, boolean, etc.'''
